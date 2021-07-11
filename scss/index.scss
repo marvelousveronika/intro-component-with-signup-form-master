@@ -3,6 +3,7 @@
 $tablet: 901px;
 $mobile: 613px;
 $s_mobile:425px;
+$laptop_l: 1280px;
 
 body {
     width: 100%;
@@ -286,4 +287,19 @@ body {
             }
         }
     }
+}
+@media (min-width: $laptop_l) {
+    .main {
+        .centralize {
+            .main__intro {
+                width: 31rem;
+                
+            }
+    
+            .forms {
+                width: 31rem;
+                
+            }
+        }
+    } 
 }
