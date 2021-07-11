@@ -1,4 +1,4 @@
-# Sign up form https://intro-component-with-signup-form-master-five-kappa.vercel.app/
+# ![Sign up Form](https://intro-component-with-signup-form-master-five-kappa.vercel.app/)
 
 HTML / CSS / Vanilla JavaScript
 
